@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basic python
 - 💞️ I’m looking to collaborate on nothing really right now
 - 📫 How to reach me email me at predaconrampage13@gmail.com
-- 😄 Pronouns: he/him, she/her
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm confused!
 
 <!---
